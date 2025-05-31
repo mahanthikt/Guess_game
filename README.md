@@ -114,7 +114,8 @@ clarinet deployments apply --testnet
 - 🧪 **Clarinet** (for local development & testing)
 
 ---
-
+## Contractdetails
+(./images/Screenshot-2025-05-31-202520.png)
 ## 🙌 Contributions
 
 Open to suggestions, enhancements, or forks for similar Clarity mini-games!
