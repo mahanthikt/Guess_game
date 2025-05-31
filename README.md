@@ -90,7 +90,7 @@ This project uses [Clarinet](https://github.com/hirosystems/clarinet) for local 
 ### How to Run Tests
 
 ```bash
-clarinet test
+clarinet deployments apply --testnet
 ```
 
 > Make sure Clarinet is installed and configured before running the tests.
